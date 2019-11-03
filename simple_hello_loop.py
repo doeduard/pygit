@@ -1,5 +1,5 @@
 #!/bin/env python3
 
 for i in range(5):
- print(i,'- Hello')
+ print(i,'- Hello Kot')
 
